@@ -4,7 +4,7 @@
 To view result run in terminal:
 
 ### `git clone https://github.com/c3rf1g/morgenshternus.git`
-### `cd kraisoft`
+### `cd morgenshternus`
 ### `npm i`
 ### `npm start`
 
