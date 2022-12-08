@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.truncated_field {
+  background-size: 120% 100%;
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-03/1614632369_72-p-rossiya-fon-dlya-fotoshop-83.jpg");
+  margin-top: 10vh;
+  height: 80vh;
+  background-color: pink;
+}
+
+#item {
+  position: absolute;
+  width: 10%;
+  height: 10%;
+}
