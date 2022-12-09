@@ -3,8 +3,8 @@
 
 To view result run in terminal:
 
-### `clone `
-### `cd kraisoft`
+### `git clone https://github.com/c3rf1g/morgenshternus.git`
+### `cd morgenshternus`
 ### `npm i`
 ### `npm start`
 
