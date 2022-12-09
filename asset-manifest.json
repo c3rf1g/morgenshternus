@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/morgenshternus/static/css/main.84f05aa7.css",
+    "main.js": "/morgenshternus/static/js/main.1ddece87.js",
+    "index.html": "/morgenshternus/index.html",
+    "main.84f05aa7.css.map": "/morgenshternus/static/css/main.84f05aa7.css.map",
+    "main.1ddece87.js.map": "/morgenshternus/static/js/main.1ddece87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f05aa7.css",
+    "static/js/main.1ddece87.js"
+  ]
+}
